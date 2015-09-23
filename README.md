@@ -7,4 +7,6 @@ ClientMail is a class proyect to teach Software engineering vìa making a Softwa
 V 0.0.1 
 
 Collaborators:
-@ValeriaMeneses.
+ValeriaMeneses.
+albertodelrey
+vanesa171114
